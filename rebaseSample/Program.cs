@@ -25,6 +25,11 @@ namespace rebaseSample
     {
         public string Name { get; set; }
     }
+
+    class Feature2
+    {
+        public string Name { get; set; }
+    }
 }
 
 
